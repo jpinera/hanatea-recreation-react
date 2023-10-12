@@ -1,0 +1,40 @@
+h2 {
+  font-size: 35px;
+}
+
+i {
+  font-size: 20px;
+}
+
+.card-img-overlay {
+  background-color: rgba(0, 0, 0, 0.2)
+}
+
+.change-font {
+  font-family: "EB Garamond", monospace;
+}
+
+.nav-link {
+  color: black;
+}
+
+.nav-link.active
+{
+  border-bottom: 1px solid black;
+}
+
+#footer {
+  background-color: #777777;
+  color: white;
+}
+
+#middle {
+  font-family: "GFS Didot", sans-serif;
+  height: 730px;
+}
+
+#mainText {
+  color: white;
+  height: 1000px;
+  font-family: "GFS Didot", sans-serif;
+}
